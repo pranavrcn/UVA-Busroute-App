@@ -1,0 +1,7 @@
+{
+  "endpoints": {
+    "stops": "https://www.cs.virginia.edu/~pm8fc/busses/stops.json",
+    "lines": "https://www.cs.virginia.edu/~pm8fc/busses/lines.json"
+  },
+  "database": "bus_stops.sqlite"
+}
