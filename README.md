@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a comprehensive Java-based application designed to build and manage a database of bus routes for the University Transit Service (UTS) at the University of Virginia. The primary goal of this project is to develop a robust database that stores and organizes information about bus lines, stops, and routes, allowing for efficient querying and data retrieval. This project demonstrates proficiency in database design, Java programming, API integration, and SQL query writing, which are critical skills for data science and data analysis roles.
+This project is a comprehensive Java-based application designed to build and manage a database of bus routes for the University Transit Service (UTS) at the University of Virginia. The primary goal of this project is to develop a robust database that stores and organizes information about bus lines, stops, and routes, allowing for efficient querying and data retrieval. This project demonstrates proficiency in database design, Java programming, API integration, and SQL query writing.
 
 ## Key Features
 
